@@ -1,0 +1,19 @@
+{
+  "comun" : {
+    "calefaccion" : {
+      "estado" : false,
+      "temperaturaProgramada" : "25"
+    },
+    "sensorTemperatura" : 24
+  },
+  "dormitorio" : {
+    "despertador" : {
+      "estado" : false,
+      "horaProgramada" : "12:59"
+    },
+    "luz" : true
+  },
+  "salon" : {
+    "luz" : false
+  }
+}
